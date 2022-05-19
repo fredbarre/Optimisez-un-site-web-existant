@@ -1049,3 +1049,12 @@ h4 {
     height: 570px;
   }
 }
+
+.quote {
+  font-size: 19px;
+  font-style: italic;
+}
+
+.quote-author {
+  font-size: 21px;
+}
