@@ -1047,7 +1047,7 @@ h4 {
 @media (max-width: 767px) {
   .portfolio-thumb {
     width: 570px;
-    height: 570px;
+    height: auto;
   }
 }
 
