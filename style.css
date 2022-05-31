@@ -1059,3 +1059,27 @@ h4 {
 .quote-author {
   font-size: 21px;
 }
+
+.invertcolor {
+  color: white;
+  mix-blend-mode: difference;
+}
+/*
+.darken {
+  filter: opacity(0.2);
+}
+
+.lighten {
+  filter: contrast(300%);
+}*/
+
+.dark {
+  color: #212121 !important;
+}
+
+.black {
+  color: #000000 !important;
+}
+.colorwhite {
+  color: #ffffff !important;
+}
