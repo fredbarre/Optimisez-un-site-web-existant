@@ -1,5 +1,5 @@
 # projet4 : Optimisez un site web existant
 
-**Version hébergée**: https://fredbarre.github.io/projet4/index.html
+**Version hébergée**: https://fredbarre.github.io/Optimisez-un-site-web-existant/
 
-**Code source**: https://github.com/fredbarre/projet4
+**Code source**: https://github.com/fredbarre/Optimisez-un-site-web-existant
